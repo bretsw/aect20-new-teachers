@@ -1,5 +1,9 @@
 # Into the Edu-verse: New Teachers’ Challenges, Supports, and Social Media
 
+**K. Bret Staudt Willet**
+
+11/6/2020
+
 *Slide deck for AECT 2020*
 
 ## Introduction
