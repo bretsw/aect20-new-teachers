@@ -12,7 +12,14 @@ New teachers face numerous challenges during their transition from preparation p
 
 ## Method
 
-This study addresses four research questions: RQ1. What supports for professional learning are new teachers seeking during induction? RQ2. What reasons do new teachers report for seeking these supports? RQ3. What interpersonal connections do new teachers make when seeking supports for professional learning during induction? RQ4. How, if at all, do new teachers use social media to seek these supports for professional learning during induction? Because the intersection of teacher induction and educators’ social media use is under-researched, I conducted semi-structured interviews with nine new teachers to ask them about their experiences.
+This study addresses four research questions: 
+
+- RQ1. What supports for professional learning are new teachers seeking during induction? 
+- RQ2. What reasons do new teachers report for seeking these supports? 
+- RQ3. What interpersonal connections do new teachers make when seeking supports for professional learning during induction? 
+- RQ4. How, if at all, do new teachers use social media to seek these supports for professional learning during induction? 
+
+Because the intersection of teacher induction and educators’ social media use is under-researched, I conducted semi-structured interviews with nine new teachers to ask them about their experiences.
 
 ## Results
 
