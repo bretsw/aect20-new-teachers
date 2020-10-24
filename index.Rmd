@@ -36,13 +36,13 @@ class: inverse, center, middle
 
 **View Slides:** [bretsw.github.io/aect20-new-teachers](https://bretsw.github.io/aect20-new-teachers)
 
-**Twitter:** [@bretsw](https://twitter.com/bretsw)
+**Connect on Twitter:** [@bretsw](https://twitter.com/bretsw)
 
 ---
 
 class: inverse, center, middle
 
-# Induction
+# Teacher Induction
 
 ---
 
@@ -58,7 +58,7 @@ include_graphics("img/teacher.jpg")
 
 # Induction
 
-### Tension between two worlds about what and how to teach
+### Tension between two worlds about *what* and *how* to teach
 
 ```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
 include_graphics("img/two-worlds.jpg")
@@ -96,19 +96,13 @@ include_graphics("img/universe.jpg")
 
 # Induction
 
-### An edu-verse: 
+### An edu-verse
 
-many voices offering ideas about what and how to teach
+Where many voices offer ideas about *what* and *how* to teach
 
 ```{r, out.width = "700px", echo = FALSE, fig.align = "center"}
 include_graphics("img/edu-verse.jpg")
 ```
-
----
-
-class: inverse, center, middle
-
-# Purpose
 
 ---
 
@@ -132,7 +126,7 @@ include_graphics("img/purpose.jpg")
 
 --
 
-*I seek to understand how new teachers navigate the edu-verse to look for help with challenges experienced during induction.*
+- *how and why new teachers navigate the edu-verse looking for help with induction challenges*
 
 ---
 
@@ -150,7 +144,7 @@ include_graphics("img/network.jpg")
 
 --
 
-### PLNs are **systems** of: 
+### PLNs are systems of: 
 
 --
 
@@ -158,7 +152,7 @@ include_graphics("img/network.jpg")
 
 --
 
-- and **supports** (knowledge, skills, curricular materials, and encouragement)
+- and **resources** (knowledge, skills, curricular materials, and encouragement)
 
 --
 
@@ -168,7 +162,7 @@ include_graphics("img/network.jpg")
 
 # Perspectives on PLNs
 
-```{r, out.width = "480", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/streetlamp.jpg")
 ```
 
@@ -186,13 +180,13 @@ include_graphics("img/streetlamp.jpg")
 
 --
 
-  - How does a new teacher intentionally assemble the pieces of their PLN to make a holistic system that meets their induction needs?
+  - How does a new teacher put the pieces of their PLN together?
 
 ---
 
 # Research Questions
 
-```{r, out.width = "360", echo = FALSE, fig.align = "center"}
+```{r, out.width = "360px", echo = FALSE, fig.align = "center"}
 include_graphics("img/question.jpg")
 ```
 
@@ -222,13 +216,13 @@ class: inverse, center, middle
 
 # Participants
 
-```{r, out.width = "360", echo = FALSE, fig.align = "center"}
+```{r, out.width = "360px", echo = FALSE, fig.align = "center"}
 include_graphics("img/teaching.jpg")
 ```
 
 --
 
-- MSU College of Education Master's students
+- MSU College of Education Master's degree students
 
 --
 
@@ -236,17 +230,17 @@ include_graphics("img/teaching.jpg")
 
 --
 
-- Teaching in U.S.
+- Teaching in U.S. (geographically dispersed)
 
 --
 
-- *Distinct experiences*: specialists, itinerants, starting mid-year
+- Represent distinct backgrounds and experiences: specialists, itinerants, starting mid-year
 
 ---
 
 # Data collection
 
-```{r, out.width = "480", echo = FALSE, fig.align = "center"}
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/interview.jpg")
 ```
 
@@ -260,15 +254,15 @@ include_graphics("img/interview.jpg")
 
 --
 
-- Transcription, emergent coding, thematic analysis
+- Transcribed and coded
 
 --
 
-- Inter-rater reliability
+- Tested inter-rater reliability
 
 --
 
-```{r, out.width = "840", echo = FALSE, fig.align = "center"}
+```{r, out.width = "840px", echo = FALSE, fig.align = "center"}
 include_graphics("img/irr-comparison-plot.png")
 ```
 
@@ -282,7 +276,7 @@ class: inverse, center, middle
 
 # Themes by Participant
 
-```{r, out.width = "840", echo = FALSE, fig.align = "center"}
+```{r, out.width = "840px", echo = FALSE, fig.align = "center"}
 include_graphics("img/dissertation-themes-wordcount-heatmap-sorted.png")
 ```
 
@@ -314,7 +308,7 @@ include_graphics("img/empty-space.jpg")
 
 ### Personal Factors
 
-```{r, out.width = "480", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/argue.jpg")
 ```
 
@@ -334,11 +328,11 @@ include_graphics("img/argue.jpg")
 
 --
 
-- Maintain boundaries between personal and professional life
+- Maintaining boundaries between personal and professional life
 
 --
 
-- Connecting socially, including *social glue*  (positive) and *social comparison* (negative)
+- Connecting socially: *social glue*  (positive) and *social comparison* (negative)
 
 --
 
@@ -356,11 +350,11 @@ include_graphics("img/argue.jpg")
 
 # RQ2. Induction Supports
 
-```{r, out.width = "420", echo = FALSE, fig.align = "center"}
+### Assigned Supports
+
+```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
 include_graphics("img/help.jpg")
 ```
-
-### Assigned Supports
 
 --
 
@@ -370,11 +364,11 @@ include_graphics("img/help.jpg")
 
 # RQ2. Induction Supports
 
-```{r, out.width = "420", echo = FALSE, fig.align = "center"}
-include_graphics("img/help.jpg")
-```
-
 ### Latent Supports
+
+```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
+include_graphics("img/latent.jpg")
+```
 
 --
 
@@ -384,11 +378,11 @@ include_graphics("img/help.jpg")
 
 # RQ2. Induction Supports
 
-```{r, out.width = "420", echo = FALSE, fig.align = "center"}
-include_graphics("img/help.jpg")
-```
-
 ### Self-directed Supports
+
+```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
+include_graphics("img/self-directed.jpg")
+```
 
 --
 
@@ -398,11 +392,11 @@ include_graphics("img/help.jpg")
 
 # RQ3. Interpersonal Connections
 
-```{r, out.width = "420", echo = FALSE, fig.align = "center"}
+### In-school Connections
+
+```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
 include_graphics("img/community.jpg")
 ```
-
-### In-school Connections
 
 --
 
@@ -426,6 +420,10 @@ include_graphics("img/community.jpg")
 
 ### Out-of-school Connections
 
+```{r, out.width = "300px", echo = FALSE, fig.align = "center"}
+include_graphics("img/horizon.jpg")
+```
+
 - District-wide professional development gatherings
 
 --
@@ -448,11 +446,11 @@ include_graphics("img/community.jpg")
 
 # RQ4. Social Media
 
-```{r, out.width = "420", echo = FALSE, fig.align = "center"}
+### Social Media Modalities
+
+```{r, out.width = "540px", echo = FALSE, fig.align = "center"}
 include_graphics("img/social-media-phone.jpg")
 ```
-
-### Social Media Modalities
 
 --
 
@@ -496,11 +494,13 @@ class: inverse, center, middle
 
 ---
 
-# Ecological Perspective
+# Ecological Perspective on PLNs
 
-```{r, out.width = "420", echo = FALSE, fig.align = "center"}
-include_graphics("img/social-media-phone.jpg")
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/social-media.jpg")
 ```
+
+--
 
 - Teaching is complicated by contextual challenges
 
@@ -518,11 +518,13 @@ include_graphics("img/social-media-phone.jpg")
 
 ---
 
-# Agentic Perspective
+# Agentic Perspective on PLNs
 
-```{r, out.width = "420", echo = FALSE, fig.align = "center"}
-include_graphics("img/social-media-phone.jpg")
+```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
+include_graphics("img/self-directed.jpg")
 ```
+
+--
 
 - New teachers must take initiative to decide from whom to learn
 
@@ -546,11 +548,13 @@ include_graphics("img/social-media-phone.jpg")
 
 # Significance
 
-```{r, out.width = "420", echo = FALSE, fig.align = "center"}
-include_graphics("img/learning.jpg")
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+include_graphics("img/teacher.jpg")
 ```
 
 ### For new teachers
+
+--
 
 - Understand the complexity and convergence of tensions felt by new teachers 
 
@@ -562,11 +566,13 @@ include_graphics("img/learning.jpg")
 
 # Significance
 
-```{r, out.width = "420", echo = FALSE, fig.align = "center"}
-include_graphics("img/learning.jpg")
+```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
+include_graphics("img/help.jpg")
 ```
 
 ### For teacher educators and education leaders
+
+--
 
 - **Sustain** new teachers by attending to their lived experiences, not just **retain** them
 
@@ -588,17 +594,13 @@ class: inverse, center, middle
 
 # Conclusion
 
-```{r, out.width = "180", echo = FALSE, fig.align = "center"}
+```{r, out.width = "300px", echo = FALSE, fig.align = "center"}
 include_graphics("img/edu-verse.jpg")
 ```
 
 --
 
 - Social media create new opportunities and new tensions 
-
---
-
-- These are not yet fully understood by educational researchers or education leaders
 
 --
 
@@ -618,7 +620,7 @@ include_graphics("img/edu-verse.jpg")
 
 --
 
-- As the edu-verse continues to expand, new teachers’ and education leaders’ understanding of emerging learning ecologies and agency must expand as well.
+- The edu-verse continues to expand: New teachers’ and education leaders’ understanding of emerging learning ecologies and agency must expand as well.
 
 ---
 
