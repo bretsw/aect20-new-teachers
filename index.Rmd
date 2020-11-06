@@ -254,11 +254,11 @@ include_graphics("img/interview.jpg")
 
 --
 
-- Transcribed and coded
+- Transcribed and coded: 5 rounds
 
 --
 
-- Tested inter-rater reliability
+- Tested inter-rater reliability: 5 rounds
 
 --
 
@@ -423,6 +423,8 @@ include_graphics("img/community.jpg")
 ```{r, out.width = "300px", echo = FALSE, fig.align = "center"}
 include_graphics("img/horizon.jpg")
 ```
+
+--
 
 - District-wide professional development gatherings
 
